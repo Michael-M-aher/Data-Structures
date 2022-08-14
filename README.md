@@ -4,7 +4,7 @@
 ![image](https://miro.medium.com/max/1200/1*KpDOKMFAgDWaGTQHL0r70g.png)
 
 ## Brief
-implimentation of all important data structures in c++ using Pointers, Dynamic Memory and Object-Oriented-Programming Principles
+implementation of all important data structures in c++ using Pointers, Dynamic Memory and Object-Oriented-Programming Principles
 
 - [Sorting Algorithms](https://github.com/Michael-M-aher/Data-Structure/blob/main/Sorter)
 - [Single Linked List](https://github.com/Michael-M-aher/Data-Structure/blob/main/Single%20Linked%20List)
