@@ -9,7 +9,7 @@ Stack is a linear data structure which follows a particular order in which the o
 | Operation     | Average       | Worst case   |
 | ------------- | ------------- | ------------ |
 | Space         | **O(1)**      | **O(1)**     |
-| Push        | **O(1)**  | **O(n)** |
+| Push        | **O(1)**  | **O(1)** |
 | Pop        | **O(1)**  | **O(1)** |
 | Peek        | **O(1)**  | **O(1)** |
 
