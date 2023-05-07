@@ -33,6 +33,10 @@ Please make sure to update tests as appropriate.
 - Twitter: [@Michael___Maher](https://twitter.com/Michael___Maher)
 - Github: [@Michael-M-aher](https://github.com/Michael-M-aher)
 
+👤 **Monica Saeed**
+
+- Github: [@MonicaSaeed](https://github.com/MonicaSaeed)
+
 ## Show your support
 
 Please ⭐️ this repository if this project helped you!
