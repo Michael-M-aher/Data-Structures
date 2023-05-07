@@ -14,6 +14,11 @@ implementation of all important data structures in c++ using Pointers, Dynamic M
 - [Heap](https://github.com/Michael-M-aher/Data-Structure/blob/main/Heap)
 - [Binary Search Tree](https://github.com/Michael-M-aher/Data-Structure/blob/main/Binary%20Search%20Tree)
 - [AVL Tree](https://github.com/Michael-M-aher/Data-Structure/blob/main/AVL%20Tree)
+- [Red Black Tree](https://github.com/Michael-M-aher/Data-Structure/blob/main/Red%20Black%20Tree)
+- [B-Tree](https://github.com/Michael-M-aher/Data-Structure/blob/main/B-Tree)
+- [Intereval-Tree](https://github.com/Michael-M-aher/Data-Structure/blob/main/Intereval-Tree)
+- [Disjoint-Set](https://github.com/Michael-M-aher/Data-Structure/blob/main/Disjoint-Set)
+- [Trie](https://github.com/Michael-M-aher/Data-Structure/blob/main/Trie)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an [issue](https://github.com/Michael-M-aher/Data-Structure/issues) first to discuss what you would like to change.
